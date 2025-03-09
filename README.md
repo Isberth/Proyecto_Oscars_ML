@@ -1,11 +1,9 @@
-
 # 🎬 Proyecto de Clasificación Binaria - Premios Óscar
 
 ## 🚀 Introducción:
 Este proyecto tiene como objetivo predecir si un ganador del Óscar es Actor o Director, usando datos demográficos.
 
 ## 📂 Estructura del proyecto:
-
 
 ## 🗃️ Dataset:
 - **Fuente**: *(Oscars-demographics-DFE)*
@@ -28,5 +26,6 @@ Este proyecto tiene como objetivo predecir si un ganador del Óscar es Actor o D
 - Clona este repositorio:
 ```bash
 git clone https://github.com/TuUsuario/Proyecto_Oscars_ML.git
-**
+
+
 
